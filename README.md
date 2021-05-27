@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=loonix&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loonix&theme=dark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loonix&theme=dark&layout=compact)]
 
 ![Profile views](https://gpvc.arturio.dev/loonix)
