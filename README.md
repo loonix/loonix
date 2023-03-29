@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Daniel Carneiro.
 #### I'm from OPorto, Portugal, and currently a Front End Developer @ CADS UK.
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E7JWJ6R)
 <!--
 **loonix/loonix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
